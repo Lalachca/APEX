@@ -1,9 +1,9 @@
 {
-  "version": "1.1.3",
-  "versionA": "1.0.7",
-  "versionEC": "1.1.7",
-  "versionAL": "1.2.2",
+  "version": "1.0.0",
+  "versionA": "1.0.0",
+  "versionEC": "1.0.0",
+  "versionAL": "1.0.0",
   "versionGB": "1.0.0",
-  "versionZOLO": "1.1.3",
-  "testversion": "1.2.3"
+  "versionZOLO": "1.0.0",
+  "testversion": "1.0.0"
 }
