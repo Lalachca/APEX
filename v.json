@@ -5,6 +5,6 @@
   "versionAL": "1.4.0",
   "versionGB": "1.0.6",
   "versionZOLO": "1.2.8",
-  "loader": "1.0",
+  "loader": "0.1",
   "testversion": "1.7.2"
 }
